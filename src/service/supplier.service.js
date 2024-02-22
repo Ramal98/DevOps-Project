@@ -8,7 +8,7 @@ class SupplierService {
   }
 
   getAllSuppliers() {
-    return axios.get(API_URL);
+    return axios.get(`${API_URL}/`);
   }
 
   getSupplierById(id) {
