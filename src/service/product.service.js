@@ -1,7 +1,7 @@
 // supplier.service.js
 import axios from 'axios';
 
-const API_URL="http://3.238.78.78:8080";
+const API_URL="http://44.220.85.200:8080";
 
 class ProductService {
 
