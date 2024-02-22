@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://44.220.243.196:8080/api/suppliers';
+const API_URL = 'http://44.200.94.118:8080/api/suppliers';
 
 class SupplierService {
   saveSupplier(supplier) {
